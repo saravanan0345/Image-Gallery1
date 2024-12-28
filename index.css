@@ -1,0 +1,131 @@
+
+.head{
+    color: greenyellow;
+    margin-top: 70px;
+ 
+    padding-bottom: 20px;
+    
+    
+}
+
+    
+
+.one{
+    color:greenyellow ;
+    display: inline-block;
+    width: 300px;
+    height: 300px;
+    margin-left: 70px;
+    background-color: black;
+    border-color: greenyellow;
+    border-width: 5px;
+    border-style: double;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 200px;
+    padding-top: 10px;
+    
+    
+    
+}
+.name1{
+    padding-left: 100px;
+}
+.two{
+    color:greenyellow ;
+    display: inline-block;
+    width: 300px;
+    height: 300px;
+    margin-left: 70px;
+    background-color: black;
+    border-color: greenyellow;
+    border-width: 5px;
+    border-style: double;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 200px;
+    padding-top: 10px;
+    margin-top: 10px;
+    
+}
+    .name2{
+        padding-left: 90px;
+    }
+ .three{
+    color:greenyellow ;
+    display: inline-block;
+    width: 300px;
+    height: 300px;
+    margin-left: 70px;
+    background-color: black;
+    border-color: greenyellow;
+    border-width: 5px;
+    border-style: double;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 200px;
+    padding-top: 10px;
+ }   
+ .name3{
+    padding-left: 70px;
+ }
+
+ .name4{
+    padding-left: 70px;
+ }
+ .four{
+    color:greenyellow ;
+    display: inline-block;
+    width: 300px;
+    height: 300px;
+    margin-left: 70px;
+    background-color: black;
+    border-color: greenyellow;
+    border-width: 5px;
+    border-style: double;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 200px;
+    padding-top: 10px;
+    margin-top: 30px;  
+ }
+ .five{
+    color:greenyellow ;
+    display: inline-block;
+    width: 300px;
+    height: 300px;
+    margin-left: 70px;
+    background-color: black;
+    border-color: greenyellow;
+    border-width: 5px;
+    border-style: double;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 200px;
+    padding-top: 10px;
+    margin-top: 30px;
+     
+ }
+ .name5{
+    padding-left: 30px;
+ }
+ .six{
+    color:greenyellow ;
+    display: inline-block;
+    width: 300px;
+    height: 300px;
+    margin-left: 70px;
+    background-color: black;
+    border-color: greenyellow;
+    border-width: 5px;
+    border-style: double;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 200px;
+    padding-top: 10px;
+ }
+ .name6{
+    padding-left: 30px;
+    height: 30px;
+ }
+ 
